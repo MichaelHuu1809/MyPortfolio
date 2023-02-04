@@ -29,7 +29,7 @@
   background-blend-mode: multiply, multiply;
   --clr-accent: #8ec5fc;
   --clr-accent2: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
-  --clr-accen3: #494b50;
+  --clr-accen3:#494b50;
   --fs-h1: 3rem;
   --fs-h2: 2.25rem;
   --fs-h3: 1.25rem;
